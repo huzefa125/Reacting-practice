@@ -1,10 +1,10 @@
 import React from 'react';
-import Advanced from './components/Advanced';
 
+import Filters2 from './components/Filters2';
 function App() {
   return (
     <>
-      <Advanced />
+    <Filters2></Filters2>
     </>
   );
 }
